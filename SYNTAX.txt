@@ -1,1 +1,40 @@
-SYNTAX Doc
+SYNTAX
+
+Description - this is actually a pretty important file. It defines the characters that are used by the Lexical Tokenizing Engine to separate words and then to build more advanced "CONSTRUCTS". It is organized chronologically as the constructs were "discovered".
+
+---------------------SYNTAX PHASE I--------------------
+
+
+'*' - called a SWITCH.
+
+Description: it was used to SOLVE RHYMING. So we could programatically define an array of switches to rhyme very easily. Like this:
+
+RHYME: [ *tion, *sion, *cean]
+
+For example, that would RHYME homonyms of NOTION, FUSION, OCEAN. See?
+
+Put that in an OBJECT, and we have the 1st CONSTRUCT.
+
+{ RHYME: [ *tion, *sion, *cean] }
+
+The cool thing about that is that the SYNTAX could easily be a PREFIX and POSTFIX. Like this...
+
+{ RHYME: [ co*, *tion, *sion, *cean] }
+
+Which would result in random things like: commotion, consession, and crustacean. You get the idea.
+
+
+
+## ADVANCEMENT.
+
+It was realized that singable, memorable, and catchy lyrics would "paint pictures in the mind", much better if it not only used singular words, but also common phrases, called IDIOMS. Or as I renamed a broader group: SOCIAL~PHRASES.
+
+That is where things really toook off!
+
+I collected THOUSANDS of SOCIAL~PHRASES from across the world. Using various resources and techniques. And dutifully wrote them down by hand. Then entered them into the computer into massive txt files - systematically. For decades.
+
+And out of this, a SINGULAR breakthrough concept emerged. It was called...
+
+*titivity.
+
+It was also a POSTFIX
