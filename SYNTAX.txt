@@ -1,4 +1,4 @@
-SYNTAX
+SYNTAX of AWORDZA
 
 Description - this is actually a pretty important file. It defines the characters that are used by the Lexical Tokenizing Engine to separate words and then to build more advanced "CONSTRUCTS". It is organized chronologically as the constructs were "discovered".
 
@@ -37,4 +37,61 @@ And out of this, a SINGULAR breakthrough concept emerged. It was called...
 
 *titivity.
 
-It was also a POSTFIX
+It was also a POSTFIX Operator.
+
+That opened the door for HUNDREDS of other SYNTAX-OPERATORS. The smallest possible letters,
+to assist in MAX~CLARITY.
+
+
+## NAMING~CONVENTION
+
+aWordza started as a Naming Convention from Computer Science, called CamelCase. 
+
+It is a way to make VARIABLE NAMES by squishingTogetherWords and still being readable.
+
+Turns out that is relevant for fixing flaws in the English language also.
+
+## Little A prefix
+
+At first it was small things like a lower case 'a' ("little-a") prefix defined ACTUAL. 
+Which is a profound way to focus on what is actual, while avoiding flights-of-fantasy.
+And off-topic forarrays into distraction, or difficult to disprove TwiztedLogic.
+
+Then the misspelling of 'z' in place of similar sounds, helped to make regular english words
+UNIQUE. Like the word 'choose'. I needed a way to make that word (and all of its twisted conjugations)
+be readably... unique. Same concept, but of a PRECISE NEW IMPORTANCE.
+
+So it became CHOOZE, and CHOIZE, and CHOZEN, etc. And is given IMPORTANCE, 
+as a ROOT~WORD, as ~'aChoozea' - which was fantastically important meaning, of
+actual REMARKABLE choice. A profound choice, or a thoughtless choice - with
+profound consequence.
+
+## little z postfix
+The postfix (little-z), was also helpful in things like 
+
+ACTZ - which specifies REMARKABLE human act or behavior. Short and obviously unique.
+
+## Little a postfix
+
+Similar to the little-a prefix, the postfix assigns a SPECIFIC MEANING - as ACT.
+
+## Little 'o' postfix
+
+ The little o means OBJECT. Or physical thing. As opposed to ACTION.
+
+ This is helpful because it separates thing, from an act of such a thing.
+
+ Example of Discouragement is shortened to aDissa. That would be deciphered as
+  
+   ~ aDissa - actual act of discouragement.
+
+   ~ aDisso - would be a discouraging THING - like climate change.
+
+   ~ aDissoa - would be the act of a discouraging THING like war.
+
+   It turns out, this type of CONJUGATION is better at describing actual reality. Than english.
+
+
+
+
+
